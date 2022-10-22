@@ -1,0 +1,4 @@
+// openzeppelin => open source library to get boiler plate code
+
+// adding openZepplin contracts
+yarn add --dev @openzeppelin/contracts
